@@ -6,7 +6,7 @@ import os
 from collections import deque
 
 class WatermarkApp:
-    """AquaMark Pro - Professional Watermarking Tool by [Your Name]"""
+    """AquaMark Pro - Professional Watermarking Tool by Dabeey 2025"""
    
     def __init__(self, root):
         self.root = root
