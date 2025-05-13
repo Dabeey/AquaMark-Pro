@@ -15,11 +15,12 @@
 
 ## 💻 Installation
 
-```bash
-git clone https://github.com/Dabeey/AquaMark-Pro.git
-cd aquamark-pro
-pip install -r requirements.txt
-python aquamark_pro.py
+  ```bash
+  git clone https://github.com/Dabeey/AquaMark-Pro.git
+  cd aquamark-pro
+  pip install -r requirements.txt
+  python aquamark_pro.py
+  ```
 
 ## 📦 Requirements
 - Python 3.8+
