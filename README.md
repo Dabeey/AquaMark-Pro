@@ -20,35 +20,22 @@ git clone https://github.com/Dabeey/AquaMark-Pro.git
 cd aquamark-pro
 pip install -r requirements.txt
 python aquamark_pro.py
-📦 Requirements
-Python 3.8+
 
-Pillow (PIL)
+## 📦 Requirements
+- Python 3.8+
+- Pillow (PIL)
+- tkinter
 
-tkinter
+## 🎨 Customization
+- Edit config.ini to:
+- Change default watermark text
+- Adjust color scheme
+- Set your preferred font
 
-🎨 Customization
-Edit config.ini to:
-
-Change default watermark text
-
-Adjust color scheme
-
-Set your preferred font
-
-📜 License
+## 📜 License
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0
 Free for personal use, contact author for commercial licensing
 
 "A tool by creators, for creators" - Dabeey
 
 
-### Additional Files:
-
-1. **`requirements.txt`**:
-Pillow>=9.0.0
-
-
-[ui]
-theme = ocean
-accent_color = #4da8da
